@@ -8,13 +8,15 @@ Je m'appelle Sabrina étudiante en Master Data Analyst au sein de l'école OpenC
 
 Vous trouverez ci-dessous les projets que j'ai réalisés en suivant un Bootcamp sur Youtube (Alex the Analyst :https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
-Projet 1 SQL Server : Analyse exploratoire 
+Projet 1 SQL(MySQL): Analyse exploratoire 
 https://github.com/SabrinaN58/SQL-DATA-EXPLORATION
 
-Projet 2 SQL Server : Nettoyer les données
+Projet 2 Python: Nettoyer les données
 
-Projet 3 Excel :  
+Projet 3 Power BI :  
 
-Projet 4 Tableau :  
+Projet 4 Python:  
 
-Projet 5 Power BI : 
+Projet 5 Python : 
+
+Projet 6 Git/GitHub : 
