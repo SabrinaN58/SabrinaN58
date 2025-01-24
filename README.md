@@ -1,22 +1,22 @@
-Bonjour, 
+Bonjour et bienvenue à toutes et à tous,
 
-Je m'appelle Sabrina étudiante en Master Data Analyst au sein de l'école OpenClassrooms.
- En quête de créativité et d'innovation, je souhaite à présent relever de nouveaux défis dans la valorisation des données.
- Je recherche un contrat de professionnalisation en alternance d'une durée de 12 ou 24 mois.
- En attendant de débuter ma formation, je me forme en autodidacte sur les outils et techniques de l'analyse de données afin d'acquérir de bonnes bases pour débuter lors de mon apprentissage.
+Je m'appelle Sabrina et je viens de terminer ma formation de Data Analyst de 10 mois et demi avec Openclassrooms.
+Après 7 années d'expérience dans le dommaine de l'import-export, j'ai réalisé une reconversion professionnelle dans le domaine de la data science car je suis à la recherche de nouveaux défis challengeants et innovants.
+Je recherche un emploi en tant que Data Analayst ou  tout poste relié à l'analyse de données en CDD ou CDI.
+Durant cette formation, j'ai utilisé différents outils et techniques avancées d'analyse de données pour une transformation stratégique des données et fournir une meilleure compréhension business.
 
 
-Vous trouverez ci-dessous les projets que j'ai réalisés en suivant un Bootcamp sur Youtube (Alex the Analyst :https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
+Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réalisés (6 projets sur un total de 12 projets) dans lesquels j'ai pu utiliser différents outils et techniques d'analyse de données.
 
-Projet 1 SQL(MySQL): Analyse exploratoire 
-https://github.com/SabrinaN58/SQL-DATA-EXPLORATION
+Projet 1 SQL(MySQL): Créer et utiliser une base de données immobilière
 
-Projet 2 Python: Nettoyer les données
 
-Projet 3 Power BI :  
+Projet 2 Python : Analyser les ventes d'une librairie
 
-Projet 4 Python:  
+Projet 3 Power BI : Évaluer la stratégie de markéting digital d'un site e-commerce
 
-Projet 5 Python : 
+Projet 4 Python :  Réaliser une étude de marché pour exporter des produits
 
-Projet 6 Git/GitHub : 
+Projet 5 Python : Identifier les vrais des faux billets grâce au déploiement d'un algorithme de classification
+
+Projet 6 Git/GitHub : Gestion de projet : réaliser différents livrables pour montrer les compétences clés répondant aux exigences d'une entreprise recharchant un chef de projet
