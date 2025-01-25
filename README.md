@@ -2,7 +2,7 @@ Bonjour et bienvenue à toutes et à tous,
 
 Je m'appelle Sabrina et je viens de terminer ma formation de Data Analyst de 10 mois et demi avec Openclassrooms.
 Après 7 années d'expériences dans le dommaine de l'import-export, j'ai réalisé une reconversion professionnelle dans le domaine de la data science car je suis à la recherche de nouveaux défis challengeants et innovants.
-Je recherche un emploi en tant que Data Analayst ou toute activité liée à l'analyse de données en CDD ou CDI.
+Je recherche un emploi en tant que Data Analyst ou toute activité liée à l'analyse de données en CDD ou CDI.
 Durant cette formation, j'ai utilisé différents outils et techniques avancées d'analyse de données pour une transformation stratégique des données et fournir une meilleure compréhension business.
 
 
