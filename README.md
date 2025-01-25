@@ -18,4 +18,4 @@ Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réali
 
 **Projet 5 Python** : Identifier les vrais des faux billets grâce au déploiement d'un algorithme de classification
 
-**Projet 6 Git/GitHub : Gestion de projet** : réaliser différents livrables pour montrer les compétences clés répondant aux exigences d'une entreprise à la recherche d'un chef de projet
+**Projet 6 Git/GitHub, Gestion de projet** : réaliser différents livrables pour montrer les compétences clés répondant aux exigences d'une entreprise à la recherche d'un chef de projet
