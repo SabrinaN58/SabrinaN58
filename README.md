@@ -6,10 +6,9 @@ Je recherche un emploi en tant que Data Analayst ou  tout poste relié à l'anal
 Durant cette formation, j'ai utilisé différents outils et techniques avancées d'analyse de données pour une transformation stratégique des données et fournir une meilleure compréhension business.
 
 
-Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réalisés (6 projets sur un total de 12 projets) dans lesquels j'ai pu utiliser différents outils et techniques d'analyse de données.
+Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réalisés (6 projets sur un total de 12 projets) dans lesquels j'ai pu utiliser différentes technologies.
 
-Projet 1 SQL(MySQL): Créer et utiliser une base de données immobilière
-
+Projet 1 SQL : Créer et utiliser une base de données immobilière
 
 Projet 2 Python : Analyser les ventes d'une librairie
 
@@ -19,4 +18,4 @@ Projet 4 Python :  Réaliser une étude de marché pour exporter des produits
 
 Projet 5 Python : Identifier les vrais des faux billets grâce au déploiement d'un algorithme de classification
 
-Projet 6 Git/GitHub : Gestion de projet : réaliser différents livrables pour montrer les compétences clés répondant aux exigences d'une entreprise recharchant un chef de projet
+Projet 6 Git/GitHub : Gestion de projet : réaliser différents livrables pour montrer les compétences clés répondant aux exigences d'une entreprise recherchant un chef de projet
