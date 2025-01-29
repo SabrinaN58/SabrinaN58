@@ -1,4 +1,4 @@
-Bonjour et bienvenue à toutes et à tous,
+Bonjour et bienvenue sur mon compte GitHub,
 
 Je m'appelle Sabrina et je viens de terminer ma formation de Data Analyst de 10 mois et demi avec Openclassrooms.
 Après 7 années d'expériences dans le dommaine de l'import-export, j'ai réalisé une reconversion professionnelle dans le domaine de la data science car je suis à la recherche de nouveaux défis challengeants et innovants.
