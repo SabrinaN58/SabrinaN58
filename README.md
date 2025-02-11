@@ -8,9 +8,9 @@ Durant cette formation, j'ai utilisé différents outils et techniques avancées
 
 Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réalisés (6 projets sur un total de 13 projets) dans lesquels j'analyse et transforme les données pour répondre aux besoins business.
 
-**Projet 1 SQL** : Créer et utiliser une base de données immobilière
+**Projet 1 Python** :  Analyser les ventes d'une librairie
 
-**Projet 2 Python** : Analyser les ventes d'une librairie
+**Projet 2 SQL** : Créer et utiliser une base de données immobilière
 
 **Projet 3 Power BI** : Évaluer la stratégie de markéting digital d'un site e-commerce
 
