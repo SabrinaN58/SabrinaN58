@@ -12,10 +12,10 @@ Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réali
 
 **Projet 2 SQL** : Créer et utiliser une base de données immobilière
 
-**Projet 3 Power BI** : Évaluer la stratégie de markéting digital d'un site e-commerce
+**Projet 3 Python** : Réaliser une étude de marché pour exporter des produits
 
-**Projet 4 Python** :  Réaliser une étude de marché pour exporter des produits
+**Projet 4 Gestion de projet** : Créer un portfolio et réaliser différents livrables pour démontrer son employabilité 
 
 **Projet 5 Python** : Identifier les vrais des faux billets grâce au déploiement de plusieurs modèles de classification
 
-**Projet 6 Gestion de projet** : Créer un portfolio et réaliser différents livrables pour démontrer son employabilité.
+**Projet 6 Power BI** : Évaluer la stratégie de markéting digital d'un site e-commerce
