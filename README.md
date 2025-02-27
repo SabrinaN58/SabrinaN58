@@ -18,4 +18,4 @@ Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réali
 
 **Projet 5 Python** : Identifier les vrais des faux billets grâce au déploiement de plusieurs modèles de classification
 
-**Projet 6 Power BI** : Évaluer la stratégie de markéting digital d'un site e-commerce
+**Projet 6 Power BI** : Évaluer la stratégie de marketing digital d'un site e-commerce
