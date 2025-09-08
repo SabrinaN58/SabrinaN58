@@ -5,8 +5,8 @@ Après 7 années d'expérience dans le dommaine de l'import-export, j'ai choisi 
 
 ## Mon portfolio
 Vous trouverez dans ce github : 
-- Des projets académqiues réalisés durant la formation qui m'on permis d'acquérir les bases solides du métier de Data analyst
-- Des projets personnels menés après ma formation afin de consolider mes acquis et monter en compétences sur la partie téchnique et des problématiques réelles du métier
+- **Des projets académiques** réalisés durant la formation qui m'on permis d'acquérir les bases solides du métier de Data analyst
+- **Des projets personnels** menés après ma formation afin de consolider mes acquis et monter en compétences sur la partie technique et des problématiques réelles du métier
 
 **Projet 1 Python** :  Analyser les ventes d'une librairie
 
