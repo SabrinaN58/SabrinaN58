@@ -1,10 +1,12 @@
-Bonjour et bienvenue sur mon compte GitHub,
+# Bienvenue sur mon GitHub 👋
 
-Je m'appelle Sabrina et je viens de terminer ma formation de Data Analyst de plus 10 mois et demi avec Openclassrooms.
-Après 7 années d'expérience dans le dommaine de l'import-export, j'ai réalisé une reconversion professionnelle dans le domaine de la data science car je suis à la recherche de nouveaux défis challengeants et innovants dans la transformation des données pour fournir aux entreprises des prises de décisions fiables et éclairées. Je recherche un opportunité en tant que Data Analyst ou toute activité liée à l'analyse de données en CDD ou CDI.
+Je m'appelle Sabrina, Data Analyst récemment diplomée d'une formation réalisée avec OpenClassrooms durant laquelle j'ai développé de solides compétences en analyse de données avec des outils Power Bi, Knime et les languages SQL et Python.
+Après 7 années d'expérience dans le dommaine de l'import-export, j'ai choisi de me spécialiser dans le domaine de la data afin de relever de nouveaux défis dans la manipulation des données pour guider les prises de décision en entreprise.
 
-Durant cette formation, j'ai utilisé différents outils et techniques avancées d'analyse de données pour une transformation stratégique des données et fournir une meilleure compréhension business.
-Vous trouverez dans ce GitHub les différents projets pertinents que j'ai réalisés (6 projets sur un total de 13 projets) dans lesquels j'analyse et transforme les données pour répondre aux besoins business.
+## Mon portfolio
+Vous trouverez dans ce github : 
+- Des projets académqiues réalisés durant la formation qui m'on permis d'acquérir les bases solides du métier de Data analyst
+- Des projets personnels menés après ma formation afin de consolider mes acquis et monter en compétences sur la partie téchnique et des problématiques réelles du métier
 
 **Projet 1 Python** :  Analyser les ventes d'une librairie
 
