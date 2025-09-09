@@ -20,7 +20,7 @@ Vous trouverez dans ce github :
 - **IDE** : Jupyter Notebook, VSCode
 -**Versioning** : Git/Github
 
-### Compétences transverse 
+### Compétences transverses
 - Esprit analytique et de synthèse
 - Interprétation des résultats
 - Communication des résultats via storytelling
