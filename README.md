@@ -18,7 +18,7 @@ Vous trouverez dans ce github :
 - **Data visualisation** : Power BI, Tableau (en cours)
 - **SQL** : MySQL, PostgreSQL, SQL Server
 - **IDE** : Jupyter Notebook, VSCode
--**Versioning** : Git/Github
+- **Versioning** : Git/Github
 
 ### Compétences transverses
 - Esprit analytique et de synthèse
