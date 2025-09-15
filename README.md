@@ -9,7 +9,7 @@ Vous trouverez dans ce github :
 - **Des projets académiques** réalisés durant la formation qui m'ont permis d'acquérir les bases solides du métier de Data analyst
 - **Des projets personnels** menés après ma formation afin de consolider mes acquis et monter en compétences sur la partie technique et des problématiques réelles du métier
 
-À travers ces projets, je manipule, analyse et valorise les données pour fournir des insights pertinents et optimiser la stratégie des entreprises.
+À travers ces projets, j'explore, analyse et valorise les données pour fournir des insights pertinents et contribuer à l'optimisation des stratégies d'entreprise.
 
 ## 🛠️ Compétences développées 
 
