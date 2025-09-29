@@ -1,7 +1,7 @@
 # Bienvenue sur mon GitHub 👋
 
-Je m'appelle Sabrina, Data Analyst récemment diplômée d'une formation réalisée avec OpenClassrooms, durant laquelle j'ai développé des bases solides dans l'analyse de données.  
-Lors de mon expérience en ADV import, j’ai manipulé de nombreuses données sans avoir l’occasion de les exploiter pleinement pour analyser et résoudre des problèmes.
+Je m'appelle Sabrina, Data Analyst récemment diplômée d'une formation réalisée avec OpenClassrooms, durant laquelle j'ai développé des bases solides dans l'analyse de données.    
+Lors de mon expérience en ADV import, j’ai manipulé de nombreuses données sans avoir l’occasion de les exploiter pleinement pour analyser et résoudre des problèmes.  
 Aujourd’hui, je me spécialise dans la data pour transformer les données en insights actionnables et accompagner les entreprises dans leurs décisions stratégiques.
 
 ## 📂 Mon portfolio
